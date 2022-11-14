@@ -8,7 +8,6 @@
  'api/v1/posts/post_id/comments/'<br>
  'api/v1/follow/'<br>
  Эндпоинт для работы с токенами:<br>
- 'api/v1/users/' - создать пользователя<br>
  'api/v1/jwt/create/' - получить токен<br>
  'api/v1/jwt/refresh/' - обновить токен<br>
  'api/v1/jwt/verify/' - проверить токен<br>
